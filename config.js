@@ -19,7 +19,7 @@ global.owner = [
 ["595994825505"]]
 
 global.mods = []
-global.prems = []
+global.prems = [+595983537383]
 // ❰❰ RENDER ❱❱
 //Kurt18: Obtener el código QR por la URL del Hosting
 global.obtenerQrWeb = 0; //Solo valores: 1 o 0
